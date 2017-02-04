@@ -1,0 +1,34 @@
+Processes execution order : 
+Q3P1
+Q3P2
+Q3P3
+Q1P4
+Q1P2
+Q1P3
+Q1P1
+Q2P1
+Q2P2
+Q2P3
+Q2P4
+Q2P5
+Q2P1
+Q2P3
+Q2P5
+Q2P1
+----------------------
+
+Trun around time : 
+Q3P1  5
+Q3P2  6
+Q3P3  10
+Q1P4  10
+Q1P2  16
+Q1P3  21
+Q1P1  33
+Q2P2  35
+Q2P4  40
+Q2P3  50
+Q2P5  50
+Q2P1  55
+----------------------
+Avg turnaround time = 27.583333333333332
